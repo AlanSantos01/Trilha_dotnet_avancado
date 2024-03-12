@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modulo1", "Modulo1", "{71E8D92C-1AA7-400C-83B8-6B9017BEC358}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exe_lampada", "Modulo1\exe_lampada\exe_lampada.csproj", "{7CBB22F1-603B-4EF1-8610-94D4B9A6F203}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exe_data", "Modulo1\exe_data\exe_data.csproj", "{4331A57C-D2B7-41EE-B335-DEDE3D359002}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CBB22F1-603B-4EF1-8610-94D4B9A6F203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CBB22F1-603B-4EF1-8610-94D4B9A6F203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CBB22F1-603B-4EF1-8610-94D4B9A6F203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CBB22F1-603B-4EF1-8610-94D4B9A6F203}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4331A57C-D2B7-41EE-B335-DEDE3D359002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4331A57C-D2B7-41EE-B335-DEDE3D359002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4331A57C-D2B7-41EE-B335-DEDE3D359002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4331A57C-D2B7-41EE-B335-DEDE3D359002}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7CBB22F1-603B-4EF1-8610-94D4B9A6F203} = {71E8D92C-1AA7-400C-83B8-6B9017BEC358}
+		{4331A57C-D2B7-41EE-B335-DEDE3D359002} = {71E8D92C-1AA7-400C-83B8-6B9017BEC358}
+	EndGlobalSection
+EndGlobal
